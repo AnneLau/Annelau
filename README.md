@@ -1,10 +1,5 @@
 # Hey ✋, I'm 锦汐沐瑶 (jinsie)！
 
-<!-- 顶部个性化图片：选用前端开发相关的插画，适配GitHub排版 -->
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/frontend-developer-illustration_23-2148887728.jpg?w=826&t=st=1734520000~exp=1734520600~hmac=7c89969c92699978e99a9d826d8a8b9c0a7d8e7f6g5h4j3k2l1m0n9b8v7c6x5s4a3d2f1g" alt="Frontend Developer Illustration" width="600"/>
-</p>
-
 <!-- 个人链接与访问量统计 -->
 <div align="center">
   🔗 <a href="https://github.com/Annelau">GitHub</a> | <a href="https://blog.liufengxiang.com">Blog</a> | Profile views 
