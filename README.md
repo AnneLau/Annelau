@@ -1,4 +1,4 @@
-# Hey ✋, I'm 锦汐沐瑶 (jinsie)！
+# Hey ✋, I'm 锦汐沐瑶 (Jinsie)！
 
 🔗 GitHub [Annelau](https://github.com/Annelau) | [Blog](https://blog.liufengxiang.com) | Profile views ![](https://visitor-badge.glitch.me/badge?page_id=Annelau.Annelau)
 
